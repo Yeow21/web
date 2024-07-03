@@ -9,7 +9,7 @@ ul {
 
 body {
     display: grid;
-    grid-template-columns: 0.2fr, 1fr;
+    grid-template-columns: 0.2fr 1fr;
     font-family: 'Fira Code', 'Source Code Pro', 'Consolas', 'Menlo', 'Monaco', 'Courier New', Courier, monospace;
 }
 
