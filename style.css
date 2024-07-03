@@ -12,6 +12,12 @@ body {
     grid-template-columns: 0.2fr, 1fr;
 }
 
+/* Header bar styling ----------------------------------------------------*/
+#header-bar {
+  grid-row: 1;
+  grid-column: 1/-1;
+}
+
 /* Side bar styling -------------------------------------------------------*/
 #side-bar {
     grid-row: 2;
