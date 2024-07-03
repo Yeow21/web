@@ -23,6 +23,7 @@ body {
 #side-bar {
     grid-row: 2;
     grid-column: 1;
+    background-color: #db691d;
 }
 
 /* Remove default bullets */
