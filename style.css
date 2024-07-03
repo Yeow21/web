@@ -11,6 +11,8 @@ body {
     display: grid;
     grid-template-columns: 0.2fr, 1fr;
     font-family: 'Fira Code', 'Source Code Pro', 'Consolas', 'Menlo', 'Monaco', 'Courier New', Courier, monospace;
+    background-color: #5c574a;
+    color: #31db02;
 }
 
 /* Header bar styling ----------------------------------------------------*/
