@@ -25,6 +25,7 @@ body {
     grid-row: 2;
     grid-column: 1;
     background-color: #db691d;
+    height: auto;
 }
 
 /* Remove default bullets */
