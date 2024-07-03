@@ -10,6 +10,7 @@ ul {
 body {
     display: grid;
     grid-template-columns: 0.2fr 1fr;
+    grid-template-rows: auto 1fr;
     font-family: 'Fira Code', 'Source Code Pro', 'Consolas', 'Menlo', 'Monaco', 'Courier New', Courier, monospace;
     margin: 0;
     height: 100vh;
